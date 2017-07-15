@@ -1,0 +1,6 @@
+C:\Users\Ilona Seaman\cSharp_Coding_Exercises\CommandLine_Exercises\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Ilona Seaman\cSharp_Coding_Exercises\CommandLine_Exercises\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\Ilona Seaman\cSharp_Coding_Exercises\CommandLine_Exercises\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\Ilona Seaman\cSharp_Coding_Exercises\CommandLine_Exercises\DecimalToBinary\obj\Debug\DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Ilona Seaman\cSharp_Coding_Exercises\CommandLine_Exercises\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Ilona Seaman\cSharp_Coding_Exercises\CommandLine_Exercises\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
